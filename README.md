@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zarul Hisyam Bin Zainal Abidin!
+# 👋 Hi, I'm Zarul Hisyam Bin Zainal Abidin
 ### 🚀 Software Engineering Student at UKM
 
 
