@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Zarul Hisyam Bin Zainal Abidin!
 ### 🚀 Software Engineering Student at UKM
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
 
 ## 👤 About Me
 - 🔭 I’m currently working on **[Project Name or Technology]**
